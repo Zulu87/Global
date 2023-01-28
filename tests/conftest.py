@@ -9,7 +9,7 @@ class User:
         self.name = 'Pavlo'
         self.second_name = 'Znak'
 
-        def remove(self):
+    def remove(self):
         self.name = ''
         self.second_name = ''
 
